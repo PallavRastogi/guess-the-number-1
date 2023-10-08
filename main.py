@@ -38,6 +38,7 @@ while(1):
     elif userinp == sno:
         print("CONGRATULATIONS YOU WON, THE SECRET NUMBER WAS",sno,"GUESSES REMAINING =", guess)
         break
+print("Thank you opp!")
 print("\n the end")
 print("game made by pallav")
 exit12 = input("press enter to exit")
